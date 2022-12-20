@@ -122,22 +122,6 @@ a {
   line-height: 1.06rem;
 }
 
-@media (max-width: 900px) {
-  .conteudo {
-    width: 80vw;
-    display: flex;
-    flex-flow: column;
-    align-items: center;
-    justify-content: space-between;
-  }
-
-  .conteudo__container,
-  .conteudo__descricao {
-    width: 80vw;
-    height: auto;
-  }
-}
-
 @media (max-width: 600px) {
   .conteudo__descricao {
     margin: 0;
@@ -158,5 +142,21 @@ a {
   .conteudo__descricao--botao {
     margin: 0;
     padding: 5% 10%;
+  }
+}
+
+@media (max-width: 900px) {
+  .conteudo {
+    width: 80vw;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .conteudo__container,
+  .conteudo__descricao {
+    width: 80vw;
+    height: auto;
   }
 }
