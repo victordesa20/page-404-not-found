@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://victordesa20.github.io/page-404-not-found/">
+    <a href="https://victordesa20.github.io/page-404-not-found/" target="_blank">
       🚀 Demo
     </a>
     <span> | </span>
@@ -14,7 +14,7 @@
       Solução
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank">
       Desafio
     </a>
   </h3>
@@ -37,7 +37,7 @@
 
 </div>
 
-Desenvolvimento de página responsiva para qualquer tamanho de tela, solução de um desafio em devchallenges.io. Acesse a página 👉🏾 <a href="https://victordesa20.github.io/page-404-not-found/">404 Not Found</a>
+Desenvolvimento de página responsiva para qualquer tamanho de tela, solução de um desafio em devchallenges.io. Acesse a página 👉🏾 <a href="https://victordesa20.github.io/page-404-not-found/" target="_blank">404 Not Found</a>
 
 ### Desenvolvido com
 
