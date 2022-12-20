@@ -46,7 +46,7 @@ Desenvolvimento de página responsiva para qualquer tamanho de tela, solução d
 
 ## Recursos
 
-Desenvolvi esta página a partir de um prótotipo UI presente em [DevChallenges](https://devchallenges.io/). O [desafio](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) era desenvolver em código uma página parecida com o design fornecido e que ajustasse de acordo com diferentes tamanhos de tela.
+Desenvolvi esta página a partir de um prótotipo UI presente em [DevChallenges](https://devchallenges.io/). O [desafio](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) era desenvolver em código uma página de acordo com o design fornecido e que ajustasse em diferentes tipos e tamanhos de tela.
 
 ## Contatos
 
